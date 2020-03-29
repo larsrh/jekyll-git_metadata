@@ -1,6 +1,10 @@
-[![Build Status](https://travis-ci.org/ivantsepp/jekyll-git_metadata.svg?branch=master)](https://travis-ci.org/ivantsepp/jekyll-git_metadata)
+[![Build Status](https://travis-ci.com/larsrh/jekyll-git_metadata.svg?branch=master)](https://travis-ci.com/larsrh/jekyll-git_metadata)
 
 # Jekyll::GitMetadata
+
+⚠ Fork to support Jekyll 4 ⚠
+
+Upstream URL: https://github.com/ivantsepp/jekyll-git_metadata
 
 Expose Git metadata to Jekyll. Just like how Github exposes [repository metadata](https://help.github.com/articles/repository-metadata-on-github-pages), this plugin will expose information about your git repository for your templates. For example:
 
